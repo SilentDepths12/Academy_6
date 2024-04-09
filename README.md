@@ -1,7 +1,3 @@
 # Academy_6
 
-123123123123
-
-1111
-
-99999999999999999999
+Sono nel branch nuovo
